@@ -16,16 +16,17 @@ int SquareSum(int n)
         int slow=n;
         int fast=n;
        
-        do{
+        while(true)
+        {
             slow=SquareSum(slow);
             fast=SquareSum(fast);
             fast=SquareSum(fast);
-        } while(slow!=fast);
-        if(slow==1)
+        
+        if(fast==1)
         return true;
-        else 
+         else if (slow==fast)
         return false;
-
+        }
 
     }
 };
