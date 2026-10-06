@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0904-fruit-into-baskets) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karthikdevadiga006/CodeNeat/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/karthikdevadiga006/CodeNeat/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/karthikdevadiga006/CodeNeat/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karthikdevadiga006/CodeNeat/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/karthikdevadiga006/CodeNeat/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Database
 |  |
 | ------- |
