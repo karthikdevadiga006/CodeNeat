@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0424-longest-repeating-character-replacement) |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0918-maximum-sum-circular-subarray) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
