@@ -5,12 +5,13 @@ public:
         int n=nums.size();
         int maxlen=0;
         int sum=0;
+        mp[0]=-1;
         for(int i=0;i<n;i++)
         {
             if(nums[i]==0)
             nums[i]=-1;
         }
-       mp[0]=-1;
+      
        for(int i=0;i<n;i++)
        {
         sum+=nums[i];
