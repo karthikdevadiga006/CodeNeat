@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karthikdevadiga006/CodeNeat/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/karthikdevadiga006/CodeNeat/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/karthikdevadiga006/CodeNeat/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/karthikdevadiga006/CodeNeat/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/karthikdevadiga006/CodeNeat/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/karthikdevadiga006/CodeNeat/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/karthikdevadiga006/CodeNeat/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0202-happy-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/karthikdevadiga006/CodeNeat/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karthikdevadiga006/CodeNeat/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/karthikdevadiga006/CodeNeat/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/karthikdevadiga006/CodeNeat/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Database
 |  |
