@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/karthikdevadiga006/CodeNeat/tree/master/0424-longest-repeating-character-replacement) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/karthikdevadiga006/CodeNeat/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/karthikdevadiga006/CodeNeat/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Two Pointers
 |  |
 | ------- |
